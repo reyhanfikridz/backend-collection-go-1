@@ -1,6 +1,6 @@
 # backend-collection-go-1
 
-### Version: release-1.0 (2022-12-18)
+### Version: release-1.0 (2022-12-24)
 
 ### Summary:
 This is Go backend number 1 from my backend collection project. This backend is a REST API for CRUD student data build with Gin Gonic framework, MySQL, and GORM, also tested with Apitest framework.
